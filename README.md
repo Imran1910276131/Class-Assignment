@@ -1,6 +1,8 @@
 # Class-Assignment
 Technical reports
+
 Introduction
+
 An essential component of contemporary banking is the automated teller machine (ATM), which gives users quick access to a range of financial services. This report describes how a streamlined ATM system works, complete with a standard operating procedure and a UML sequence diagram.
 
 
